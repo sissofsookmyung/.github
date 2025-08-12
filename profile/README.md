@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="YOUR_LOGO_URL" width="200" alt="SISS Logo">
+  <img src="https://github.com/user-attachments/assets/ad087146-3ed7-43f2-9bf3-435826fa544b" width="600" alt="SISS Logo">
 </p>
-
 <h1 align="center">SISS - Sookmyung Information Security Study</h1>
-<p align="center">숙명여자대학교 정보보안학회</p>
+<p align="center">숙명여자대학교 소프트웨어학부 소속 정보보안학회 since 2001~</p>
 
 ---
 
@@ -22,6 +21,7 @@ SISS(Sookmyung Information Security Study)는 숙명여자대학교 소프트웨
 
 ## 📬 Contact
 - Email: sissofsookymyung[a.t.]gmail.com
+- Instagram: https://www.instagram.com/siss_sookmyung/
 
 ---
 ![GitHub Org's stars](https://img.shields.io/github/stars/SISS?style=social)
